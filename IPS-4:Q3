@@ -1,0 +1,34 @@
+Get the elements of two 3X3 matrix in row-wise and perform matrix multiplication of those two matrices. Display the resulted matrix. 
+
+Sample Input:
+
+10(first matrix entries row-wise)
+20
+10
+4
+5
+6
+2
+3
+5
+3(second matrix entry row-wise)
+2
+4
+3
+3
+9
+4
+4
+2
+
+Sample Result:
+
+130(resulted matrix)
+120
+240
+51
+47
+73
+35
+33
+45
