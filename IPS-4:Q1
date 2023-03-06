@@ -1,0 +1,5 @@
+IPS4-C
+Get an array of integers display them.
+Then, remove duplicates from the array and display:
+i).the removed elements that comes after the first occurance (one below the other).
+ii). the revised array after removal
