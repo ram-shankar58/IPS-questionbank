@@ -1,0 +1,10 @@
+Get the size "N" and the "N" elements of a array.
+Find the largest number from the array.
+input will contain:
+i) value of n
+ii) n elements of the array (one below the other)
+
+Output:
+i)n elements of the array (one below the other)
+ii) The largest number: 
+the answer for the largest number
