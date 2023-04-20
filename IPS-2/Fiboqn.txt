@@ -1,0 +1,11 @@
+Write a C program to generate odd and the even position th sum of Fibonacci series 
+
+Value of n is given as input.
+
+Output Format:
+
+Series in the same line separated by comma
+
+Odd position total
+
+Even position total
